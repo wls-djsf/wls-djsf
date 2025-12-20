@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=djsacredfamily-ctrl&color=blue&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=wls-djsf&color=blue&style=flat-square)
   
 </div>
 
@@ -22,9 +22,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djsacredfamily-ctrl&show_icons=true&theme=radical&locale=pt-br)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wls-djsf&show_icons=true&theme=radical&locale=pt-br)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djsacredfamily-ctrl&layout=compact&theme=radical&locale=pt-br)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wls-djsf&layout=compact&theme=radical&locale=pt-br)
   
 </div>
 
@@ -37,7 +37,7 @@ Acredito que música e código têm muito em comum: ambos exigem criatividade, r
 <div align="center">
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djsf.sp?igsh=MXBnMDRlYmVrdnN3Zg==)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djsacredfamily-ctrl)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wls-djsf)
   
 </div>
 
