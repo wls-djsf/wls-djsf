@@ -8,12 +8,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e profissional
 
 - 🎓 Cursando o **3º semestre de ADS** no Centro Universitário Ítalo Brasileiro.
 - 🛠️ Experiência prática atuando com **Suporte Técnico de TI**, resolvendo problemas de infraestrutura, sistemas e atendimento ao usuário.
-- 📚 **Aprendizado Contínuo:** Estou em fase de construção da minha base em programação. Mais do que colecionar siglas, meu foco atual é estudar com consistência, conquistar certificações técnicas e aplicar o que aprendo em projetos práticos.
+- 📚 **Aprendizado Contínuo:** Estou em fase de construção da minha base em programação. Meu foco atual é estudar com consistência, conquistar certificações técnicas e aplicar o que aprendo em projetos práticos.
 
 ---
 
 ### 🚀 Projetos em Destaque
-*Clique nos botões de cada projeto para testar a aplicação no ar ou inspecionar o código-fonte (os links abrem em uma nova aba):*
+*Clique nos botões de cada projeto para testar a aplicação no ar ou inspecionar o código-fonte
 
 #### 🛠️ Ferramentas de Suporte
 > Aplicação web criada para agilizar a rotina de profissionais de Suporte Técnico, centralizando links oficiais, utilitários de diagnóstico e downloads de ISOs em um só lugar.
@@ -33,9 +33,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e profissional
 
 ### 📫 Vamos Conversar?
 
-👉 **[wls-djsf.github.io/devLinks](https://wls-djsf.github.io/devLinks/)** *(abre em nova aba)*
+*Clique diretamente no  link abaixo para interagir:*
 
-*Clique diretamente nos botões grandes abaixo para interagir:*
+👉 **[wls-djsf.github.io/devLinks](https://wls-djsf.github.io/devLinks/)** 
+
+*Clique diretamente nos botões abaixo para interagir:*
 
 <div align="left">
 
