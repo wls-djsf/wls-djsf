@@ -36,7 +36,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e profissional
 <a href="https://www.linkedin.com/in/wlopes2025/" target="_blank"><img src="https://img.shields.io/badge/🔗_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://wa.me/5511976385901" target="_blank"><img src="https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="mailto:wls.lopes@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/📧_E--MAIL-D14836?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email"></a>
-<a href="https://www.instagram.com/djsf.sp" target="_blank"><img src="https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/wls-djsf" target="_blank"><img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
