@@ -6,7 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e profissional
 
 - 🎓 Cursando o **3º semestre de ADS** no Centro Universitário Ítalo Brasileiro.
 - 🛠️ Experiência prática atuando com **Suporte Técnico de TI**, resolvendo problemas de infraestrutura, sistemas e atendimento ao usuário.
-- 📚 **Aprendizado Contínuo:** Estou em fase de construção da minha base em programação. Meu foco atual é estudar com consistência, conquistar certificações técnicas e aplicar o que aprendo em projetos práticos.
+- 📚 **Aprendizado Contínuo:** Estou em fase de construção da minha base em programação. Meu foco atual é estudar com consistência e aplicar o que aprendo em projetos práticos.
 
 ### 🚀 Projetos em Destaque
 *Clique nos botões de cada projeto para testar a aplicação no ar ou inspecionar o código-fonte
