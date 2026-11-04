@@ -2,15 +2,11 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e profissional com vivência prática em **Suporte de TI**. Acredito na tecnologia como ferramenta para resolver problemas reais e facilitar o dia a dia das pessoas.
 
----
-
 ### 👨‍💻 Sobre Mim e Trajetória
 
 - 🎓 Cursando o **3º semestre de ADS** no Centro Universitário Ítalo Brasileiro.
 - 🛠️ Experiência prática atuando com **Suporte Técnico de TI**, resolvendo problemas de infraestrutura, sistemas e atendimento ao usuário.
 - 📚 **Aprendizado Contínuo:** Estou em fase de construção da minha base em programação. Meu foco atual é estudar com consistência, conquistar certificações técnicas e aplicar o que aprendo em projetos práticos.
-
----
 
 ### 🚀 Projetos em Destaque
 *Clique nos botões de cada projeto para testar a aplicação no ar ou inspecionar o código-fonte
@@ -21,15 +17,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e profissional
 <a href="https://wls-djsf.github.io/SiteFerramentasSuporte/" target="_blank"><img src="https://img.shields.io/badge/🌐_ACESSAR_SITE-007EC6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Site"></a> 
 <a href="https://github.com/wls-djsf/SiteFerramentasSuporte" target="_blank"><img src="https://img.shields.io/badge/📂_VER_CÓDIGO-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"></a>
 
----
-
 #### 🔗 DevLinks
 > Meu agregador de links e cartão de visitas digital responsivo. Desenvolvido na prática para aplicar fundamentos de desenvolvimento web (HTML, CSS e JavaScript) e centralizar meus canais de contato.
 
 <a href="https://wls-djsf.github.io/devLinks/" target="_blank"><img src="https://img.shields.io/badge/🌐_ACESSAR_SITE-007EC6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Site"></a> 
 <a href="https://github.com/wls-djsf/devLinks" target="_blank"><img src="https://img.shields.io/badge/📂_VER_CÓDIGO-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"></a>
-
----
 
 ### 📫 Vamos Conversar?
 
@@ -48,9 +40,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e profissional
 <a href="https://github.com/wls-djsf" target="_blank"><img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
-
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=wls-djsf&color=blue&style=flat-square)](https://github.com/wls-djsf)
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=wls-djsf&color=blue&style=flat-square)](https://github.com/wls-djsf)
 
 </div>
