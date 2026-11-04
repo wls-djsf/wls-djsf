@@ -13,7 +13,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e profissional
 ---
 
 ### 🚀 Projetos em Destaque
-*Clique nos botões abaixo de cada projeto para testar a aplicação no ar ou inspecionar o código-fonte (os links abrem em uma nova aba):*
 
 | Projeto | O que ele resolve? | Acesso Direto (Clique nos botões) |
 | :--- | :--- | :--- |
