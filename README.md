@@ -29,22 +29,14 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 
 
 
+
 ## 📊 Estatísticas do GitHub
 
-
-
 <div align="center">
-
   
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wls-djsf&show_icons=true&theme=radical&locale=pt-br)
-
+  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wls-djsf&show_icons=true&theme=radical&locale=pt-br)
   
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wls-djsf&layout=compact&theme=radical&locale=pt-br)
-
-  
-
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wls-djsf&layout=compact&theme=radical&locale=pt-br)
 </div>
 
 
