@@ -22,10 +22,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e profissional
 ---
 
 ### 📫 Vamos Conversar?
-*Para ver todos os nossos canais de comunicação em um só lugar, visite meu cartão digital:*  
-👉 **[wls-djsf.github.io/devLinks](https://wls-djsf.github.io/devLinks/)** *(abre em nova aba)*
+  
+👉 **[wls-djsf.github.io/devLinks](https://wls-djsf.github.io/devLinks/)** 
 
-*Ou clique diretamente nos botões grandes abaixo para interagir:*
+*Clique diretamente nos botões grandes abaixo para interagir:*
 
 <div align="left">
 
