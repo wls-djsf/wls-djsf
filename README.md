@@ -25,9 +25,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 📱 Conecte-se comigo no [Instagram](https://www.instagram.com/djsf.sp?igsh=MXBnMDRlYmVrdnN3Zg==)
 
 
-</div>
-
-
 
 
 ## 📊 Estatísticas do GitHub
